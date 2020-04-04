@@ -130,3 +130,4 @@ ValueError: expected only letters, got 'en-us'
 2020-04-04 06:05:05,088 INFO: Microblog startup [in /Users/harry/microblog/app/__init__.py:53]
 2020-04-04 06:42:47,337 INFO: Microblog startup [in /Users/harry/microblog/app/__init__.py:53]
 2020-04-04 06:43:00,220 INFO: Microblog startup [in /Users/harry/microblog/app/__init__.py:53]
+2020-04-04 06:46:40,757 INFO: Microblog startup [in /Users/harry/microblog/app/__init__.py:53]
